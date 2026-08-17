@@ -162,7 +162,7 @@ const List<Scene> scenes = [
     title: 'Lion',
     description: 'Friendly baby lion gives a tiny roar, then claps.',
     lyrics: '🦁 ROAR… and CLAP!',
-    icon: Icons.sound_up,
+    icon: Icons.volume_up,
     color: Colors.orangeAccent,
   ),
   Scene(
@@ -218,7 +218,7 @@ const List<Scene> scenes = [
     title: 'End Card',
     description: 'Rainbow background, characters waving. Animated stars and hearts',
     lyrics: 'Thanks for playing!',
-    icon: Icons.rainbow_char,
+    icon: Icons.auto_awesome,
     color: Colors.deepOrange,
   ),
 ];
